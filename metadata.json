@@ -1,0 +1,7 @@
+{
+  "name": "Soni Bake Art",
+  "description": "A modern, visually appealing website for Soni Bake Art, a bakery specializing in custom cakes, cupcakes, cookies, and other delicious desserts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
